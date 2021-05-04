@@ -1,0 +1,15 @@
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\bin\Debug\net5.0\Test_Project.Data.deps.json
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\bin\Debug\net5.0\Test_Project.Data.runtimeconfig.json
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\bin\Debug\net5.0\Test_Project.Data.runtimeconfig.dev.json
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\bin\Debug\net5.0\Test_Project.Data.dll
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\bin\Debug\net5.0\ref\Test_Project.Data.dll
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\bin\Debug\net5.0\Test_Project.Data.pdb
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.dll
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\ref\Test_Project.Data.dll
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.pdb
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\Test_Project\Test_Project.Data\obj\Debug\net5.0\Test_Project.Data.csprojAssemblyReference.cache

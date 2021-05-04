@@ -1,0 +1,41 @@
+<div class="container">
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">FirstName</th>
+            <th scope="col">LastName</th>
+            <th scope="col">DateOfBirth</th>
+            <th scope="col">Email</th>
+            <th scope="col">Address</th>
+            <th scope="col">Course</th>
+            <th scope="col">Department</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let student of studentlist">      
+            <td>{{student.Id}}</td>
+            <td>{{student.FirstName}}</td>
+            <td>{{student.LastName}}</td>
+            <td>{{student.DateOfBirth}}</td>
+            <td>{{student.Email}}</td>
+            <td>{{student.Address}}</td>
+            <td>{{student.Course}}</td>
+            <td>{{student.Department}}</td>
+            <td><button [routerLink]="['/studentUpdate',student.Id]" class="btn btn-primary">
+                Edit
+            </button></td>
+            <td>
+              <button (click)="DeleteStudent(student.Id)" class="btn btn-danger">
+                Delete
+            </button>
+           
+            </td>
+           
+          </tr>
+        
+        </tbody>
+      </table>
+</div>
